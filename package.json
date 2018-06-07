@@ -1,0 +1,23 @@
+{
+  "name": "iosorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R min",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheneus/ioSorting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheneus/ioSorting/issues"
+  },
+  "homepage": "https://github.com/cheneus/ioSorting#readme"
+}
